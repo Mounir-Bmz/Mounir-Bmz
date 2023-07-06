@@ -15,12 +15,14 @@ Avast ye! Let's chart a course for web development greatness together!
 
 ### Arr, me arsenal of languages be expandin' across the vast horizon: ✨
 
-🌊 HTML, the foundation of every web voyage.
-🌊 CSS, the art of shapin' the digital seas.
-🌊 JavaScript, the winds that bring interactivity to me creations.
-🌊 PHP, a treasure trove of server-side power.
-🌊 PhpMyAdmin/Adminer, the trusty mates that help me navigate the treacherous waters of database management.
-🌊 WordPress, a sturdy vessel that powers me on the high seas of content management and website creation.
+<ul>
+  <li>🌊 HTML, the foundation of every web voyage.</li>
+  <li>🌊 CSS, the art of shapin' the digital seas.</li>
+  <li>🌊 JavaScript, the winds that bring interactivity to me creations.</li>
+  <li>🌊 PHP, a treasure trove of server-side power.</li>
+  <li>🌊 PhpMyAdmin/Adminer, the trusty mates that help me navigate the treacherous waters of database management.</li>
+  <li>🌊 WordPress, a sturdy vessel that powers me on the high seas of content management and website creation.</li>
+</ul>
 
 But me sails be set on new horizons, as I continue me journey to conquer new languages and frameworks. The next destination be React, a treasure worth uncoverin' on me path of web development glory.
 Together, let's hoist the anchor and navigate the ever-evolving waters of web development!
