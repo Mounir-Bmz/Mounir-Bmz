@@ -8,7 +8,7 @@ I be Mounir, a web developer with a passion as vast as the seven seas. Currently
 
 🤔 I be on the lookout for me first matey position as a web developer, ready to join a crew and set sail on thrilling projects.
 
-✉️ If ye be wishin' to send me a message in a bottle, ye can find me on [LinkedIn](https://www.linkedin.com/in/mounir-boumaza/) or visit me website.
+✉️ If ye be wishin' to send me a message in a bottle, ye can find me on [LinkedIn](https://www.linkedin.com/in/mounir-boumaza/) or visit me [website](https://mounir-bmz.github.io/).
 
 Avast ye! Let's chart a course for web development greatness together!
 
